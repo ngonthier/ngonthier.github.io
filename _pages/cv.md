@@ -11,49 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Signal and Image Processing, Paris-Saclay University, March 2021
+  * Transfer learning of convolutional neural networks for texture synthesis and visual recognition in artistic images
+* MEng in Data & Decision Sciences, ISAE-Supaero, 2017
+* MSc in Stastistic, Université Paul Sabatier, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2015: PostDoctoral Researcher Assistant
+  * ENPC
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Mathieu Aubry
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* October 2017 - March 2021: PhD Student at Télécom Paris
+  * Télécom Paris
+  * Université Paris-Saclay
+  * Supervisor: Yann Gousseau, Saïd Ladjal and Olivier Bonfait
+
+Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+  * Deep learning
+* Image Processing
+* Art History
+* Digital Humanities
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
