@@ -12,26 +12,28 @@ redirect_from:
 Education
 ======
 * Ph.D in Signal and Image Processing, Paris-Saclay University, March 2021
-  * Transfer learning of convolutional neural networks for texture synthesis and visual recognition in artistic images
+  * [Transfer learning of convolutional neural networks for texture synthesis and visual recognition in artistic images](https://www.theses.fr/2021UPASG024)
 * MEng in Data & Decision Sciences, ISAE-Supaero, 2017
 * MSc in Stastistic, Université Paul Sabatier, 2017
 
 Work experience
 ======
-* Summer 2015: PostDoctoral Researcher Assistant
-  * ENPC
-  * Duties included: Tagging issues
-  * Supervisor: Mathieu Aubry
+* Since June 2021: PostDoctoral Researcher
+  * [IMAGINE/LIGM](https://imagine-lab.enpc.fr/) - [École des Ponts ParisTech - ENPC](https://www.ecoledesponts.fr/)
+  * Supervisor: [Mathieu Aubry](https://imagine.enpc.fr/~aubrym/)
+  * Responsible of the [scientific seminar](https://imagine-lab.enpc.fr/seminars/)
 
-* October 2017 - March 2021: PhD Student at Télécom Paris
-  * Télécom Paris
-  * Université Paris-Saclay
-  * Supervisor: Yann Gousseau, Saïd Ladjal and Olivier Bonfait
+* October 2017 - March 2021: PhD Student
+  * IMAGINE - [Télécom Paris](https://www.telecom-paris.fr/)
+  * [Université Paris-Saclay](https://www.universite-paris-saclay.fr/)
+  * Supervisor: [Yann Gousseau](https://gousseau.wp.imt.fr/), [Saïd Ladjal](https://perso.telecom-paristech.fr/ladjal/) and [Olivier Bonfait](http://tristan.u-bourgogne.fr/CGC/chercheurs/Bonfait/Olivier_Bonfait.html)
 
 Interests
 ======
-* Machine Learning
-  * Deep learning
+* Deep learning
+  * Transfer learning
+  * CNN understanding
+* Image Synthesis
 * Image Processing
 * Art History
 * Digital Humanities
