@@ -9,6 +9,6 @@ date: 2017-09-01
 ---
 
 Signal and Image processing Practical sessions (TP) :
-* 2017-2018
-* 2018-2019
-* 2019-2020
+* 2017-2018 : 15h
+* 2018-2019 : 15h
+* 2019-2020 : 32h
