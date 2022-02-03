@@ -27,6 +27,6 @@ Keywords
 * Art analysis
 * Multiple instance learning
 
-![Examples of detection with our polyhedral model.](https://ngonthier.github.io/images/feature_CVIU.png)
+![Examples of detection with our polyhedral model.](https://ngonthier.github.io/images/featured_CVIU.PNG)
 
 Recommended citation: Gonthier, N. (2022). "Multiple instance learning on deep features for weakly supervised object detection with extreme domain shifts" <i>Computer Vision and Image Understanding</i>.
