@@ -3,7 +3,7 @@ title: "Disruption in Neural Phase Synchrony is Related to Identification of Ina
 collection: publications
 permalink: /publication/2018-02-Disruption
 excerpt:
-date: 2018-02
+date: 2018-02-01
 venue: 'Human brain mapping'
 #paperurl: 'https://openaccess.thecvf.com/content_eccv_2018_workshops/w13/html/Gonthier_Weakly_Supervised_Object_Detection_in_Artworks_ECCVW_2018_paper.html'
 citation: 'Callan, D. (2018). &quot;Disruption in Neural Phase Synchrony is Related to Identification of Inattentional Deafness in Real-World Setting&quot; <i>Human brain mapping</i>.'

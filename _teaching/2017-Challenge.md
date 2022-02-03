@@ -4,7 +4,7 @@ collection: teaching
 type: "(M1)"
 permalink: /teaching/2017-Challenge
 venue: "Télécom Paris"
-date: 2018-01
+date: 2018-01-01
 #location: "City, Country"
 ---
 
