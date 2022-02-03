@@ -21,12 +21,14 @@ Work experience
 * Since June 2021: PostDoctoral Researcher
   * [IMAGINE/LIGM](https://imagine-lab.enpc.fr/) - [École des Ponts ParisTech - ENPC](https://www.ecoledesponts.fr/)
   * Supervisor: [Mathieu Aubry](https://imagine.enpc.fr/~aubrym/)
-  * Responsible of the [scientific seminar](https://imagine-lab.enpc.fr/seminars/)
+  * In charge of the [scientific seminar](https://imagine-lab.enpc.fr/seminars/)
 
 * October 2017 - March 2021: PhD Student
   * IMAGINE - [Télécom Paris](https://www.telecom-paris.fr/)
   * [Université Paris-Saclay](https://www.universite-paris-saclay.fr/)
   * Supervisor: [Yann Gousseau](https://gousseau.wp.imt.fr/), [Saïd Ladjal](https://perso.telecom-paristech.fr/ladjal/) and [Olivier Bonfait](http://tristan.u-bourgogne.fr/CGC/chercheurs/Bonfait/Olivier_Bonfait.html)
+  * PhD representative at the administrative board of Télécom Paris (2018-2020)
+  * In charge of the deep learning seminar
 
 Interests
 ======
@@ -34,7 +36,6 @@ Interests
   * Transfer learning
   * CNN understanding
 * Image Synthesis
-* Image Processing
 * Art History
 * Digital Humanities
 
