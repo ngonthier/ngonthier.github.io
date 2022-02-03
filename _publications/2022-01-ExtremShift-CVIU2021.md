@@ -1,8 +1,8 @@
 ---
 title: "Multiple instance learning on deep features for weakly supervised object detection with extreme domain shifts"
 collection: publications
-permalink: /publication/2020-08-ExtremShift-CVIU2021
-excerpt: 'This paper is about weakly supervised object in artworks (paintings, watercolor etc) based on multiple instance learning.'
+permalink: /publication/2022-01-ExtremShift-CVIU2021
+excerpt: 'This paper is about weakly supervised object in artworks (paintings, watercolor etc) based on multiple instance learning. We propose a simple multiple instance approach applied on pre-trained deep features to learn new classes on non-photographic datasets.'
 date: 2022-01-01
 venue: 'Computer Vision and Image Understanding'
 #paperurl: 'https://openaccess.thecvf.com/content_eccv_2018_workshops/w13/html/Gonthier_Weakly_Supervised_Object_Detection_in_Artworks_ECCVW_2018_paper.html'

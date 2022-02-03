@@ -1,0 +1,29 @@
+---
+title: "Weakly Supervised Object Detection in Artworks"
+collection: publications
+permalink: /publication/2018-09-01-WSOD-VISART2018
+excerpt: 'This paper is about weakly supervised object in artworks thanks to pretrained features extraction and multiple instance learning.'
+date: 2018-09-01
+venue: 'Workshop on Computer Vision for Art Analysis ECCV'
+#paperurl: 'https://openaccess.thecvf.com/content_eccv_2018_workshops/w13/html/Gonthier_Weakly_Supervised_Object_Detection_in_Artworks_ECCVW_2018_paper.html'
+citation: 'Gonthier, N. (2018). &quot;Weakly Supervised Object Detection in Artworks&quot; <i>Workshop on Computer Vision for Art Analysis ECCV</i>.'
+---
+
+*Nicolas Gonthier*, [Yann Gousseau](https://gousseau.wp.imt.fr/), [Saïd Ladjal](https://perso.telecom-paristech.fr/ladjal/) and [Olivier Bonfait](http://tristan.u-bourgogne.fr/CGC/chercheurs/Bonfait/Olivier_Bonfait.html)
+
+[PDF](https://arxiv.org/pdf/1810.02569.pdf) - [Code](https://github.com/ngonthier/Mi_max) - [Dataset](https://wsoda.telecom-paristech.fr/downloads/dataset/) - [Project](https://wsoda.telecom-paristech.fr/) - [Slides](http://ngonthier.github.io/files/VISART_2018_slides.pdf)
+
+Abstract
+======
+
+We propose a method for the weakly supervised detection of objects in paintings. At training time, only image-level annotations are needed. This, combined with the efficiency of our multiple-instance learning method, enables one to learn new classes on-the-fly from globally annotated databases, avoiding the tedious task of manually marking objects. We show on several databases that dropping the instance-level annotations only yields mild performance losses. We also introduce a new database, IconArt, on which we perform detection experiments on classes that could not be learned on photographs, such as Jesus Child or Saint Sebastian. To the best of our knowledge, these are the first experiments dealing with the automatic (and in our case weakly supervised) detection of iconographic elements in paintings. We believe that such a method is of great benefit for helping art historians to explore large digital databases.
+
+Keywords
+======
+* Deep learning
+* Art analysis
+* Weakly Supervised Object Detection
+
+![Iconographic detection](https://ngonthier.github.io/images/wsod.jpg)
+
+Recommended citation: Gonthier, N. (2018). "Weakly Supervised Object Detection in Artworks" <i>Workshop on Computer Vision for Art Analysis ECCV</i>.
