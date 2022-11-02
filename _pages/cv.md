@@ -18,7 +18,11 @@ Education
 
 Work experience
 ======
-* Since June 2021: PostDoctoral Researcher
+* September 2022: R&D Engineer
+  * [IGN - French Mapping Agency](https://www.ign.fr/)
+  * Working on Change Detection and Deep Learning for remote sensing
+
+* June 2021 - August 2022: PostDoctoral Researcher
   * [IMAGINE/LIGM](https://imagine-lab.enpc.fr/) - [École des Ponts ParisTech - ENPC](https://www.ecoledesponts.fr/)
   * Supervisor: [Mathieu Aubry](https://imagine.enpc.fr/~aubrym/)
   * In charge of the [scientific seminar](https://imagine-lab.enpc.fr/seminars/)
@@ -35,8 +39,9 @@ Interests
 * Deep learning
   * Transfer learning
   * CNN understanding
+* Earth Observation
+* Remote Sensing
 * Image Synthesis
-* Art History
 * Digital Humanities
 
 Publications
