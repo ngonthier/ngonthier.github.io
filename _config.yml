@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Nicolas Gonthier"
 title_separator          : "-"
 name                     : &name "Gonthier"
-description              : &description "I am a PostDoctoral Research in the IMAGINE team of the ENPC."
+description              : &description "I am a R&D Engineer at IGN (French Mapping Agency)."
 url                      : https://ngonthier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ngonthier/ngonthier.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dr. Nicolas Gonthier"
   avatar           : "avatar.jpg"
-  bio              : "PostDoctoral Research in the IMAGINE team of the ENPC."
-  location         : "Champs sur Marne"
+  bio              : "R&D Engineer at IGN (French Mapping Agency)."
+  location         : "Vincennes"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.fr/citations?user=y6a-lk0AAAAJ&hl=fr&authuser=1"
