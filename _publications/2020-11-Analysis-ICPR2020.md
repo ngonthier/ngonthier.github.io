@@ -27,4 +27,4 @@ Keywords
 
 ![Optimized Image for the fine-tuned model and the pretrained one.](https://ngonthier.github.io/images/featured_ICPR2020.png)
 
-Recommended citation: Gonthier, N. (2020). "An analysis of the transfer learning of convolutional neural networks for artistic images" <i>Workshop on Fine Art Pattern Extraction and Recognition, ICPR</i>.
+Recommended citation: Gonthier, N., Gousseau Y. and Ladjal S. (2020). "An analysis of the transfer learning of convolutional neural networks for artistic images" <i>Workshop on Fine Art Pattern Extraction and Recognition, ICPR</i>.
