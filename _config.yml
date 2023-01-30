@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dr. Nicolas Gonthier"
   avatar           : "avatar.jpg"
-  bio              : "R&D Engineer at IGN (French Mapping Agency)."
-  location         : "Vincennes"
-  employer         :
+  bio              : "R&D Engineer"
+  location         : "Saint-Mandé"
+  employer         : "IGN (French Mapping Agency)"
   pubmed           :
   googlescholar    : "https://scholar.google.fr/citations?user=y6a-lk0AAAAJ&hl=fr&authuser=1"
-  email            :
+  email            : "nicolas.gonthier at ign.fr"
   researchgate     : "https://www.researchgate.net/profile/Nicolas-Gonthier"
   uri              :
   bitbucket        :
