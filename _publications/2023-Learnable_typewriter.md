@@ -29,4 +29,4 @@ Keywords
 
 ![Overview of the approach](https://ngonthier.github.io/images/teaser_learnable_typewriter.jpg)
 
-Recommended citation: Siglidis, I. and Gonthier, N. and Gaubil, J. and Monnier, T. and Aubry, M. (2023). "The Learnable Typewriter: A Generative Approach to Text Line Analysis" <i>preprint/i>.
+Recommended citation: Siglidis, I. and Gonthier, N. and Gaubil, J. and Monnier, T. and Aubry, M. (2023). "The Learnable Typewriter: A Generative Approach to Text Line Analysis" <i>preprint</i>.
