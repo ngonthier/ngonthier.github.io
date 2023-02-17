@@ -6,7 +6,7 @@ excerpt: 'This paper is about unsupervised text recognition based on analysis-by
 date: 2023-02-01
 venue: 'preprint'
 #paperurl: 'https://'
-#citation: ', . (2018). &quot;   Title &quot; <i>venue</i>.'
+#citation: 'Siglidis, I. (2023). &quot; The Learnable Typewriter: A Generative Approach to Text Line Analysis &quot; <i>preprint</i>.'
 ---
 
 [Ioannis Siglidis](https://imagine.enpc.fr/~siglidii/), *Nicolas Gonthier*, [Julien Gaubil](https://juliengaubil.github.io/),  [Tom Monnier](https://www.tmonnier.com/) and [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/)
