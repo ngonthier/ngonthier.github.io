@@ -8,7 +8,7 @@ date: 2021-03-31
 location: "Télécom Paris - Palaiseau"
 ---
 
-PhD Defense from Télécom Paris - Université Paris Saclay with the following commite
+PhD Defense from Télécom Paris - Université Paris Saclay with the following commite :
 - [Agnès Desolneux](https://desolneux.perso.math.cnrs.fr/), CNRS, ENS Paris-Saclay, France
 - [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/) , ENPC, France
 - Javier Portilla, CSIC, Espagne
