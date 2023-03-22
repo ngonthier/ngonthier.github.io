@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Ing. Nicolas Gonthier"
+title                    : "Dr. Nicolas Gonthier"
 title_separator          : "-"
 name                     : &name "Gonthier"
 description              : &description "I am a R&D Engineer at IGN (French Mapping Agency)."
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Ing. Nicolas Gonthier"
+  name             : "Dr. Nicolas Gonthier"
   avatar           : "avatar.jpg"
   bio              : "R&D Engineer"
   location         : "Saint-Mandé"
