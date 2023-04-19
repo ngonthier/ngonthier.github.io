@@ -23,7 +23,7 @@ Keywords
 * Domain Adaptation
 * Geographical coordinates Awared Model 
 
-![Iconographic detection](https://ngonthier.github.io/images/wsod.jpg)
+![Radiometric discrepancies of the aerial images between domains](https://ngonthier.github.io/images/radiometric.png)
 
 Recommended citation: Marsocci V., Gonthier N., Garioud A., Scardapane S., Mallet C. (2023). "GeoMultiTaskNet: remote sensing unsupervised domain adaptation using geographical coordinates
 " <i>preprint</i>.
