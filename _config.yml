@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Nicolas Gonthier"
   avatar           : "avatar.jpg"
-  bio              : "R&D Engineer"
+  bio              : "R&D Engineer and Researcher"
   location         : "Saint-Mandé"
   employer         : "IGN (French Mapping Agency)"
   pubmed           :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9236-5394"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
