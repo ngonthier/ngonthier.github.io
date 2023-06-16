@@ -6,6 +6,7 @@ excerpt: 'This paper is about domain adaptation in remote sensing based on using
 date: 2023-04-19
 venue: 'preprint'
 #paperurl: 
+citation: 'Marsocci V. (2023). &quot;GeoMultiTaskNet: remote sensing unsupervised domain adaptation using geographical coordinates&quot; <i>EarthVision Workshop CVPR</i>.'
 ---
 
 [Valerio Marsocci](http://cedric.cnam.fr/lab/author/vmarsocci/), **Nicolas Gonthier**, [Anatol Garioud](https://scholar.google.fr/citations?user=6c9QX2AAAAAJ&hl=fr), [Simone Scardapane](https://www.sscardapane.it/), [Clément Mallet](https://www.umr-lastig.fr/clement-mallet/)
@@ -26,4 +27,4 @@ Keywords
 ![Radiometric discrepancies of the aerial images between domains](https://ngonthier.github.io/images/radiometric.png)
 
 Recommended citation: Marsocci V., Gonthier N., Garioud A., Scardapane S., Mallet C. (2023). "GeoMultiTaskNet: remote sensing unsupervised domain adaptation using geographical coordinates
-" <i>preprint</i>.
+" <i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition - EarthVision Workshop</i>.
