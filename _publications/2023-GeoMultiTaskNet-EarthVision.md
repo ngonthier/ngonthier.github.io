@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-GeoMultiTaskNet-EarthVision
 excerpt: 'This paper is about domain adaptation in remote sensing based on using geographical coordinates of the patches.'
 date: 2023-04-19
-venue: 'preprint'
+venue: 'CVPR Workshops EarthVision'
 #paperurl: 
 citation: 'Marsocci V. (2023). &quot;GeoMultiTaskNet: remote sensing unsupervised domain adaptation using geographical coordinates&quot; <i>CVPR Workshops EarthVision</i>.'
 ---
