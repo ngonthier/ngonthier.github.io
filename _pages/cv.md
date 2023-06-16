@@ -28,7 +28,7 @@ Work experience
   * In charge of the [scientific seminar](https://imagine-lab.enpc.fr/seminars/)
 
 * October 2017 - March 2021: PhD Student
-  * IMAGINE - [Télécom Paris](https://www.telecom-paris.fr/)
+  * [IMAGES](https://www.telecom-paris.fr/fr/recherche/laboratoires/laboratoire-traitement-et-communication-de-linformation-ltci/les-equipes-de-recherche/image-modelisation-analyse-geometrie-synthese-images/personnes) - [Télécom Paris](https://www.telecom-paris.fr/)
   * [Université Paris-Saclay](https://www.universite-paris-saclay.fr/)
   * Supervisor: [Yann Gousseau](https://gousseau.wp.imt.fr/), [Saïd Ladjal](https://perso.telecom-paristech.fr/ladjal/) and [Olivier Bonfait](http://tristan.u-bourgogne.fr/CGC/chercheurs/Bonfait/Olivier_Bonfait.html)
   * PhD representative at the administrative board of Télécom Paris (2018-2020)
