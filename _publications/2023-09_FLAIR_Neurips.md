@@ -11,7 +11,7 @@ citation: 'Garioud A. (2023). &quot;FLAIR: a Country-Scale Land Cover Semantic S
 
 [Anatol Garioud](https://scholar.google.fr/citations?user=6c9QX2AAAAAJ&hl=fr), **Nicolas Gonthier**, [Loic Landrieu](https://loiclandrieu.com/), Apolline De Wit, Marion Valette, Marc Poupée, Sébastien Giordano and Boris Wattrelos
 
-#[PDF](https://arxiv.org/pdf/2304.07750.pdf) - 
+# [PDF](https://arxiv.org/pdf/2304.07750.pdf) - 
 [Dataset](https://ignf.github.io/FLAIR/) 
 
 Abstract
@@ -26,6 +26,6 @@ Keywords
 * Aerial and Satellite Images
 * Deep learning
 
-#![Radiometric discrepancies of the aerial images between domains](https://ngonthier.github.io/images/radiometric.png)
+# ![Radiometric discrepancies of the aerial images between domains](https://ngonthier.github.io/images/radiometric.png)
 
 Recommended citation: Garioud A., Gonthier N, Landrieu L., De Wit A., Valette M., Poupée M., Giordano S. and Wattrelos B. (2023). "FLAIR: a Country-Scale Land Cover Semantic Segmentation Dataset From Multi-Source Optical Imagery" <i>NeurIPS 2023 Datasets and Benchmarks Track</i>.
