@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* Training in Sustainable Development for public policies
 * Ph.D in Signal and Image Processing, Paris-Saclay University, March 2021
   * [Transfer learning of convolutional neural networks for texture synthesis and visual recognition in artistic images](https://www.theses.fr/2021UPASG024)
 * MEng in Data & Decision Sciences, ISAE-Supaero, 2017
@@ -38,10 +39,9 @@ Interests
 ======
 * Deep learning
   * Transfer learning
-  * CNN understanding
-* Earth Observation
-* Remote Sensing
-* Image Synthesis
+* Change Detection
+* Geospatial Data
+* Domain Adaptation
 * Digital Humanities
 
 Publications
