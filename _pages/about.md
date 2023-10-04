@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am R&D Engineer at [French Mapping Agency IGN](https://www.ign.fr/) and researcher at [LASTIG](https://www.umr-lastig.fr/) working on change detection for earth observation and deep learning applied to remote sensing. 
+I am R&D Engineer at [French Mapping Agency IGN](https://www.ign.fr/) and researcher at [LASTIG](https://www.umr-lastig.fr/) working on change detection for earth observation and deep learning applied to geospatial data. 
 
 Previously I was a PostDoctoral researcher in the [IMAGINE team](https://imagine-lab.enpc.fr/) of the ENPC, working with [Mahtieu Aubry](https://imagine.enpc.fr/~aubrym/) on unsupervised learning for text recognition.
 
@@ -16,4 +16,4 @@ I did my Ph.D. at [Université Paris Saclay](https://www.universite-paris-saclay
 My PhD manuscript can be found [here](https://theses.hal.science/tel-03227373).
 
 
-My research interests include deep learning and other image processing models applied for earth observation images and historical data.
+My research interests include deep learning applied for geospatial and historical images.
