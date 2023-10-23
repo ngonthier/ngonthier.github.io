@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-09_FLAIR_Neurips
 excerpt: 'This paper is about domain adaptation in remote sensing based on using geographical coordinates of the patches.'
 date: 2023-09-27
-venue: 'NeurIPS 2023 Datasets and Benchmarks Track'
+venue: 'NeurIPS Datasets and Benchmarks Track'
 #paperurl: 
 citation: 'Garioud A. (2023). &quot;FLAIR: a Country-Scale Land Cover Semantic Segmentation Dataset From Multi-Source Optical Imagery&quot; <i>NeurIPS Datasets and Benchmarks Track</i>.'
 ---
