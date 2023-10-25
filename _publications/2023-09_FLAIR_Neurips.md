@@ -11,7 +11,7 @@ citation: 'Garioud A. (2023). &quot;FLAIR: a Country-Scale Land Cover Semantic S
 
 [Anatol Garioud](https://scholar.google.fr/citations?user=6c9QX2AAAAAJ&hl=fr), **Nicolas Gonthier**, [Loic Landrieu](https://loiclandrieu.com/), Apolline De Wit, Marion Valette, Marc Poupée, Sébastien Giordano and Boris Wattrelos
 
-[PDF](https://arxiv.org/pdf/2310.13336.pdf) - [Dataset](https://ignf.github.io/FLAIR/) 
+[PDF](https://arxiv.org/pdf/2310.13336.pdf) - [Dataset](https://ignf.github.io/FLAIR/) - [Poster and Video](https://neurips.cc/virtual/2023/poster/73621)
 
 Abstract
 ======
