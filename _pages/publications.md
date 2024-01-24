@@ -1,9 +1,10 @@
 ---
 layout: archive
+entries_layout: grid
+type: grid
 title: "Publications"
 permalink: /publications/
 author_profile: true
-type: grid
 ---
 
 {% if author.googlescholar %}
