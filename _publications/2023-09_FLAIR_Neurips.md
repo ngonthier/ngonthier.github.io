@@ -8,7 +8,8 @@ venue: 'NeurIPS Datasets and Benchmarks Track'
 github: https://github.com/IGNF/FLAIR-2-AI-Challenge
 link: https://ignf.github.io/FLAIR/
 paperurl: https://arxiv.org/pdf/2310.13336.pdf
-teaser: flair.jpg
+header:
+	teaser: flair.jpg
 citation: 'Garioud A. (2023). &quot;FLAIR: a Country-Scale Land Cover Semantic Segmentation Dataset From Multi-Source Optical Imagery&quot; <i>NeurIPS Datasets and Benchmarks Track</i>.'
 ---
 
