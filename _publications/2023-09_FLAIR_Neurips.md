@@ -2,7 +2,7 @@
 title: "FLAIR: a Country-Scale Land Cover Semantic Segmentation Dataset From Multi-Source Optical Imagery"
 collection: publications
 permalink: /publication/2023-09_FLAIR_Neurips
-excerpt: 'This paper is about domain adaptation in remote sensing based on using geographical coordinates of the patches.'
+excerpt: 'This paper is about land cover semantic segmentation and multi modalities fusion (very high resolution aerial image and satellite time series).'
 date: 2023-09-27
 venue: 'NeurIPS Datasets and Benchmarks Track'
 github: https://github.com/IGNF/FLAIR-2-AI-Challenge
