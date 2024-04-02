@@ -21,10 +21,11 @@ Most image-to-image translation models postulate that a unique correspondence ex
 
 Keywords
 ======
+
 * Non-Bijective Image Translation
 * Steganography
 * GAN
 
 # ![StegoGAN architecture.](https://ngonthier.github.io/images/StegoGAN.jpg)
 
-Recommended citation: Wu S., Chen Y., Mermet S., Hurni L., Schindler K., Gonthier N. and Landrieu L. (2024). "StegoGAN: Leveraging Steganography for Non-Bijective Image-to-Image Translation" <i>CVPR</i>.
+Recommended citation: Wu S., Chen Y., Mermet S., Hurni L., Schindler K., Gonthier N. and Landrieu L. "StegoGAN: Leveraging Steganography for Non-Bijective Image-to-Image Translation" <i>CVPR 2024</i>.
