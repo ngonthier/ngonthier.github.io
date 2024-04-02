@@ -1,7 +1,7 @@
 ---
 title: "StegoGAN: Leveraging Steganography for Non-Bijective Image-to-Image Translation"
 collection: publications
-permalink: /publication/2024-04_StegoGAN
+permalink: /publication/2024_04_StegoGAN
 excerpt: 'This paper is about leveaging steganography in GAN for non-bijective image translation, avoiding spurious synthesis and detecting mismatched features.'
 date: 2024-04-01
 venue: 'CVPR'
