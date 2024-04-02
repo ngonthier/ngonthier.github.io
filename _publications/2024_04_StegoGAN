@@ -6,15 +6,13 @@ excerpt: 'This paper is about leveaging steganography in GAN for non-bijective i
 date: 2024-04-01
 venue: 'CVPR'
 github: https://github.com/sian-wusidi/StegoGAN
-#link: https://github.com/sian-wusidi/StegoGAN
-paperurl: https://arxiv.org/pdf/2310.13336.pdf
+paperurl: https://arxiv.org/abs/2403.20142
 citation: 'Wu S. (2024). &quot;StegoGAN: Leveraging Steganography for Non-Bijective Image-to-Image Translationy&quot; <i>CVPR</i>.'
 ---
 
-[Sidi Wu](https://scholar.google.com/citations?user=-QdAfx0AAAAJ&hl=en), [Yizi Chen](https://www.umr-lastig.fr/yizi-chen/), Samuel Mermet, Lorenz Hurni, [Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986), **Nicolas Gonthier**, [Loic Landrieu](https://loiclandrieu.com/)
+[Sidi Wu](https://scholar.google.com/citations?user=-QdAfx0AAAAJ&hl=en), [Yizi Chen](https://www.umr-lastig.fr/yizi-chen/), Samuel Mermet, Lorenz Hurni, [Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986), **Nicolas Gonthier** and [Loic Landrieu](https://loiclandrieu.com/)
 
-[PDF](https://arxiv.org/pdf/2403.20142.pdf) - [Dataset](https://zenodo.org/records/10839841?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjFiY2MzOTZkLWQ2YmItNDM3Yi04NDhmLTJhN2YwMjA2ODI5NSIsImRhdGEiOnt9LCJyYW5kb20iOiJjYmRhYmQ3YzM4YzQ3ZTA0YzZmOGJhM2M1ZmY5YzYxMCJ9.8PKcfv0FCSiM5O6a9qwEx9ZIku9_uIZT-dsOfb0xeutu6fGu7so85XT137OIoA9lnQLEnexeZFi2iAIFUAfkjQ) 
-#- [Poster and Video](https://neurips.cc/virtual/2023/poster/73621)
+[PDF](https://arxiv.org/pdf/2403.20142.pdf) - [Dataset](https://zenodo.org/records/10839841?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjFiY2MzOTZkLWQ2YmItNDM3Yi04NDhmLTJhN2YwMjA2ODI5NSIsImRhdGEiOnt9LCJyYW5kb20iOiJjYmRhYmQ3YzM4YzQ3ZTA0YzZmOGJhM2M1ZmY5YzYxMCJ9.8PKcfv0FCSiM5O6a9qwEx9ZIku9_uIZT-dsOfb0xeutu6fGu7so85XT137OIoA9lnQLEnexeZFi2iAIFUAfkjQ)
 
 Abstract
 ======
@@ -30,6 +28,6 @@ Keywords
 * Steganography
 * GAN
 
-# ![.](https://ngonthier.github.io/images/StegoGAN.jpg)
+![StegoGAN architecture.](https://ngonthier.github.io/images/StegoGAN.jpg)
 
 Recommended citation: Wu S., Chen Y., Mermet S., Hurni L., Schindler K., Gonthier N. and Landrieu L. (2024). "StegoGAN: Leveraging Steganography for Non-Bijective Image-to-Image Translation" <i>CVPR</i>.
