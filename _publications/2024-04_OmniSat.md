@@ -6,14 +6,13 @@ excerpt: 'This paper is about self-supervised multimodal learning modal for more
 date: 2024-04-15
 venue: 'preprint'
 github: https://github.com/gastruc/OmniSat
-link: https://ignf.github.io/FLAIR/
 paperurl: https://arxiv.org/pdf/2404.08351.pdf
 citation: 'Astruc G. (2024). &quot;OmniSat: Self-Supervised Modality Fusion for Earth Observation&quot; <i>preprint</i>.'
 ---
 
 [Guillaume Astruc](https://imagine-lab.enpc.fr/staff-members/guillaume-astruc/), **Nicolas Gonthier**, [Clément Mallet](https://www.umr-lastig.fr/clement-mallet/) and [Loic Landrieu](https://loiclandrieu.com/)
 
-[PDF](https://arxiv.org/pdf/2404.08351.pdf) - [Dataset PASTIS-HD](https://huggingface.co/datasets/IGNF/PASTIS-HD) - [Dataset TreeSatAI-Time Series](https://huggingface.co/datasets/IGNF/TreeSatAI-Time-Series)
+[PDF](https://arxiv.org/pdf/2404.08351.pdf) - [Code](https://github.com/gastruc/OmniSat) - [Dataset PASTIS-HD](https://huggingface.co/datasets/IGNF/PASTIS-HD) - [Dataset TreeSatAI-Time Series](https://huggingface.co/datasets/IGNF/TreeSatAI-Time-Series)
 
 Abstract
 ======
