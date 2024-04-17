@@ -3,10 +3,10 @@ title: "The Learnable Typewriter: A Generative Approach to Text Line Analysis"
 collection: publications
 permalink: /publication/2023-Learnable_typewriter
 excerpt: 'This paper is about unsupervised text recognition based on analysis-by-synthesis method.'
-date: 2023-02-01
-venue: 'preprint'
+date: 2024-01-01
+venue: 'ICDAR : International Conference on Document Analysis and Recognition'
 #paperurl: 'https://'
-citation: 'Siglidis, I. (2023). &quot; The Learnable Typewriter: A Generative Approach to Text Line Analysis &quot; <i>preprint</i>.'
+citation: 'Siglidis, I. (2024). &quot; The Learnable Typewriter: A Generative Approach to Text Line Analysis &quot; <i>ICDAR</i>.'
 ---
 
 [Ioannis Siglidis](https://imagine.enpc.fr/~siglidii/), *Nicolas Gonthier*, [Julien Gaubil](https://juliengaubil.github.io/),  [Tom Monnier](https://www.tmonnier.com/) and [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/)
@@ -29,4 +29,4 @@ Keywords
 
 ![Overview of the approach](https://ngonthier.github.io/images/teaser_learnable_typewriter.jpg)
 
-Recommended citation: Siglidis, I. and Gonthier, N. and Gaubil, J. and Monnier, T. and Aubry, M. (2023). "The Learnable Typewriter: A Generative Approach to Text Line Analysis" <i>preprint</i>.
+Recommended citation: Siglidis, I. and Gonthier, N. and Gaubil, J. and Monnier, T. and Aubry, M. (2024). "The Learnable Typewriter: A Generative Approach to Text Line Analysis" <i>ICDAR : International Conference on Document Analysis and Recognition</i>.
