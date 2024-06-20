@@ -12,7 +12,7 @@ citation: 'Wu S. (2024). &quot;StegoGAN: Leveraging Steganography for Non-Biject
 
 [Sidi Wu](https://scholar.google.com/citations?user=-QdAfx0AAAAJ&hl=en), [Yizi Chen](https://www.umr-lastig.fr/yizi-chen/), Samuel Mermet, Lorenz Hurni, [Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986), **Nicolas Gonthier** and [Loic Landrieu](https://loiclandrieu.com/)
 
-[PDF](https://arxiv.org/pdf/2403.20142.pdf) - [Datasets](https://zenodo.org/records/10839841)
+[PDF](https://arxiv.org/pdf/2403.20142.pdf) - [Datasets](https://zenodo.org/records/10839841) - [Code](https://github.com/sian-wusidi/StegoGAN)
 
 Abstract
 ======
