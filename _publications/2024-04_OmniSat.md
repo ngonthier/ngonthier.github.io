@@ -8,6 +8,7 @@ venue: 'ECCV'
 github: https://github.com/gastruc/OmniSat
 paperurl: https://arxiv.org/pdf/2404.08351.pdf
 citation: 'Astruc G. (2024). &quot;OmniSat: Self-Supervised Modality Fusion for Earth Observation&quot; <i>ECCV</i>.'
+teaser: OmniSat_Archi.JPG
 ---
 
 [Guillaume Astruc](https://imagine-lab.enpc.fr/staff-members/guillaume-astruc/), **Nicolas Gonthier**, [Clément Mallet](https://www.umr-lastig.fr/clement-mallet/) and [Loic Landrieu](https://loiclandrieu.com/)
