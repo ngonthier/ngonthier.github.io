@@ -2,7 +2,7 @@
 title: "Disruption in Neural Phase Synchrony is Related to Identification of Inattentional Deafness in Real-World Setting"
 collection: publications
 permalink: /publication/2018-02-Disruption
-excerpt:
+excerpt: ' '
 date: 2018-02-01
 venue: 'Human brain mapping'
 #paperurl: 'https://openaccess.thecvf.com/content_eccv_2018_workshops/w13/html/Gonthier_Weakly_Supervised_Object_Detection_in_Artworks_ECCVW_2018_paper.html'
