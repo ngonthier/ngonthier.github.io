@@ -29,4 +29,6 @@ Keywords
 
 # ![StegoGAN architecture.](https://ngonthier.github.io/images/StegoGAN.jpg)
 
+#  ![Synthesis samples.](https://ngonthier.github.io/images/StegoGAN_samples.png)
+
 Recommended citation: Wu S., Chen Y., Mermet S., Hurni L., Schindler K., Gonthier N. and Landrieu L. "StegoGAN: Leveraging Steganography for Non-Bijective Image-to-Image Translation" <i>CVPR 2024</i>.
