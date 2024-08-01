@@ -5,6 +5,7 @@ permalink: /publication/2023-Learnable_typewriter
 excerpt: 'This paper is about unsupervised text recognition based on analysis-by-synthesis method.'
 date: 2024-01-01
 venue: 'ICDAR : International Conference on Document Analysis and Recognition'
+teaser: teaser_learnable_typewriter.jpg
 #paperurl: 'https://'
 citation: 'Siglidis, I. (2024). &quot; The Learnable Typewriter: A Generative Approach to Text Line Analysis &quot; <i>ICDAR</i>.'
 ---
