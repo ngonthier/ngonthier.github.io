@@ -7,6 +7,7 @@ date: 2024-04-01
 venue: 'CVPR'
 github: https://github.com/sian-wusidi/StegoGAN
 paperurl: https://arxiv.org/pdf/2403.20142.pdf
+teaser : StegoGAN.jpg
 citation: 'Wu S. (2024). &quot;StegoGAN: Leveraging Steganography for Non-Bijective Image-to-Image Translationy&quot; <i>CVPR</i>.'
 ---
 
