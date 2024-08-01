@@ -6,6 +6,7 @@ excerpt: 'This paper is about CNN analysis with feature visualisation and quanti
 date: 2020-11-01
 venue: 'Workshop on Fine Art Pattern Extraction and Recognition ICPR'
 #paperurl:
+teaser: featured_ICPR2020.png
 citation: 'Gonthier, N. (2020). &quot;An analysis of the transfer learning of convolutional neural networks for artistic images&quot; <i>Workshop on Fine Art Pattern Extraction and Recognition ICPR</i>.'
 ---
 
