@@ -16,4 +16,4 @@ I did my Ph.D. at [Université Paris Saclay](https://www.universite-paris-saclay
 My PhD manuscript can be found [here](https://theses.hal.science/tel-03227373).
 
 
-My research interests include deep learning applied for geospatial and historical images.
+My research interests include deep learning applied for geospatial data and historical images.
