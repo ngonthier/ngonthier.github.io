@@ -13,7 +13,7 @@ teaser: OmniSat_Dataset_Teaser_Horizontal.png
 
 [Guillaume Astruc](https://imagine-lab.enpc.fr/staff-members/guillaume-astruc/), **Nicolas Gonthier**, [Clément Mallet](https://www.umr-lastig.fr/clement-mallet/) and [Loic Landrieu](https://loiclandrieu.com/)
 
-[PDF](https://arxiv.org/pdf/2404.08351.pdf) - [Code](https://github.com/gastruc/OmniSat) - [Dataset PASTIS-HD](https://huggingface.co/datasets/IGNF/PASTIS-HD) - [Dataset TreeSatAI-Time Series](https://huggingface.co/datasets/IGNF/TreeSatAI-Time-Series) - [Project Page](https://gastruc.github.io/projects/omnisat.html)
+[PDF](https://arxiv.org/pdf/2404.08351.pdf) - [Code](https://github.com/gastruc/OmniSat) - [Dataset PASTIS-HD](https://huggingface.co/datasets/IGNF/PASTIS-HD) - [Dataset TreeSatAI-Time Series](https://huggingface.co/datasets/IGNF/TreeSatAI-Time-Series) - [Project Page](https://gastruc.github.io/projects/omnisat.html) - [ECCV 2024 Page](https://eccv.ecva.net/virtual/2024/poster/2584)
 
 Abstract
 ======
