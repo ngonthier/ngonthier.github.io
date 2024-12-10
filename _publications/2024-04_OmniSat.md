@@ -33,4 +33,4 @@ Keywords
 
 # ![Multimodal datasets used.](https://ngonthier.github.io/images/astruc_eccv24.webp)
 
-Recommended citation: Astruc G., Gonthier N, Mallet C. and Landrieu L. (2024). "OmniSat: Self-Supervised Modality Fusion for Earth Observation" <i>ECCV</i>.
+# Recommended citation: Astruc G., Gonthier N, Mallet C. and Landrieu L. (2024). "OmniSat: Self-Supervised Modality Fusion for Earth Observation" <i>ECCV</i>.
