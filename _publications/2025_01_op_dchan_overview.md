@@ -3,7 +3,7 @@ title: "Operational Change Detection for Geographical Information: Overview and 
 collection: publications
 permalink: /publication/2025-01_AnySat
 excerpt: 'This paper is an overview about operational change detection.'
-date: 2025-01-01
+date: 2025-01-02
 venue: 'preprint'
 paperurl: https://arxiv.org/pdf/2503.14109
 citation: 'Gonthier N. (2025). &quot;Operational Change Detection for Geographical Information: Overview and Challenges&quot; <i>preprint</i>.'
