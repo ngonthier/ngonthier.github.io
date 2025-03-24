@@ -2,7 +2,7 @@
 title: "The Change You Want To Detect: Semantic Change Detection In Earth Observation With Hybrid Data Generation"
 collection: publications
 permalink: /publication/2025-03-ChangeWantToDetect
-excerpt: 'This paper is about a new pipeline to create a hybrid semantic change detection dataset for pretraining models. We provide a comprehensive evaluation of transfer learning on 5 differents datasets and 4 scenarios.'
+excerpt: 'This paper is about a new pipeline to create a hybrid semantic change detection dataset for pretraining models. We provide a comprehensive evaluation of transfer learning on 5 different datasets and 4 scenarios.'
 date: 2025-03-02
 venue: 'CVPR'
 github: https://github.com/yb23/HySCDG
