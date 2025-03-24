@@ -3,17 +3,18 @@ title: "The Change You Want To Detect: Semantic Change Detection In Earth Observ
 collection: publications
 permalink: /publication/2025-03-ChangeWantToDetect.md
 excerpt: 'This paper is about a new pipeline to create a hybrid semantic change detection dataset for pretraining models. We provide a comprehensive evaluation of transfer learning on 5 differents datasets and 4 scenarios.'
-date: 2025-03-01
+date: 2025-03-02
 venue: 'CVPR'
 github: https://github.com/yb23/HySCDG
 paperurl: https://arxiv.org/pdf/2503.15683.pdf
-citation: 'Benidir Y. (2025). &quot;The Change You Want To Detect: Semantic Change Detection In Earth Observation With Hybrid Data Generation&quot; <i>CVPR</i>.'
+citation: 'Benidir Y. (2025). &quot; The Change You Want To Detect: Semantic Change Detection In Earth Observation With Hybrid Data Generation&quot; <i>CVPR</i>.'
 teaser: teaser_CWTD_short.png
 ---
 
 [Yanis Benidir](https://yb23.github.io/), **Nicolas Gonthier** and [Clément Mallet](https://www.umr-lastig.fr/clement-mallet/)
 
-[PDF](https://arxiv.org/abs/2503.15683) - [Code Soon]() - [HF Dataset Page](https://huggingface.co/datasets/Yanis236/fsc-180k) - [Project Page]([https://gastruc.github.io/anysat](https://yb23.github.io/projects/cywd/))
+[PDF](https://arxiv.org/abs/2503.15683) - [HF Dataset Page](https://huggingface.co/datasets/Yanis236/fsc-180k) - [Project Page]([https://gastruc.github.io/anysat](https://yb23.github.io/projects/cywd/))
+# - [Code Soon]()
 
 Abstract
 ======
