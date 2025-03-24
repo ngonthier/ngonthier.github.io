@@ -13,6 +13,8 @@ citation: 'Gonthier N. (2025). &quot;Operational Change Detection for Geographic
  
 [PDF](https://arxiv.org/pdf/2503.14109) 
 
+Please do not hesitate to contact me if you have any comments on this work in progress with a view to improving it.
+
 Abstract
 ======
 
