@@ -7,7 +7,7 @@ date: 2025-06-21
 venue: 'preprint'
 github: https://github.com/IGNF/FLAIR-HUB
 link: https://ignf.github.io/FLAIR/FLAIR-HUB/flairhub.html
-paperurl: https://arxiv.org/pdf/2310.13336.pdf
+paperurl: https://arxiv.org/pdf/2506.07080.pdf
 teaser: FLAIR-HUB_patches_1_VERTICAL_1_line.jpg
 citation: 'Garioud A. (2025). &quot;FLAIR-HUB: Large-scale Multimodal Dataset for Land Cover and Crop Mapping&quot; <i>preprint</i>.'
 ---
