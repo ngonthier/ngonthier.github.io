@@ -13,7 +13,7 @@ teaser: teaser_CWTD_short.png
 
 [Yanis Benidir](https://yb23.github.io/), **Nicolas Gonthier** and [Clément Mallet](https://www.umr-lastig.fr/clement-mallet/)
 
-[PDF](https://arxiv.org/abs/2503.15683) - [HF Dataset Page](https://huggingface.co/datasets/Yanis236/fsc-180k) - [Project Page](https://yb23.github.io/projects/cywd/) - [Code](https://github.com/yb23/HySCDG) - [SD + CN trained weights](https://huggingface.co/Yanis236/HySCDG)
+[PDF](https://arxiv.org/abs/2503.15683) - [HF Dataset Page](https://huggingface.co/datasets/Yanis236/FSC-ZIP) - [Project Page](https://yb23.github.io/projects/cywd/) - [Code](https://github.com/yb23/HySCDG) - [SD + CN trained weights](https://huggingface.co/Yanis236/HySCDG)
 
 Abstract
 ======
