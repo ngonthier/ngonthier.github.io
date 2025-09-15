@@ -10,7 +10,7 @@ teaser: GeoMT_Teaser.JPG
 citation: 'Marsocci V. (2023). &quot;GeoMultiTaskNet: remote sensing unsupervised domain adaptation using geographical coordinates&quot; <i>CVPR Workshops EarthVision</i>.'
 ---
 
-[Valerio Marsocci](http://cedric.cnam.fr/lab/author/vmarsocci/), **Nicolas Gonthier**, [Anatol Garioud](https://scholar.google.fr/citations?user=6c9QX2AAAAAJ&hl=fr), [Simone Scardapane](https://www.sscardapane.it/), [Clément Mallet](https://www.umr-lastig.fr/clement-mallet/)
+[Valerio Marsocci](https://sites.google.com/uniroma1.it/valeriomarsocci/home?authuser=0), **Nicolas Gonthier**, [Anatol Garioud](https://scholar.google.fr/citations?user=6c9QX2AAAAAJ&hl=fr), [Simone Scardapane](https://www.sscardapane.it/), [Clément Mallet](https://www.umr-lastig.fr/clement-mallet/)
 
 [PDF](https://arxiv.org/pdf/2304.07750.pdf) - [Dataset](https://ignf.github.io/FLAIR/) 
 
