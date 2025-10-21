@@ -17,3 +17,25 @@ My PhD manuscript can be found [here](https://theses.hal.science/tel-03227373).
 
 
 My research interests include deep learning applied for geospatial data and historical images.
+
+
+
+## 🥼 Research projects
+### 👹 OGRE (2026-2029)
+
+*Website to be published*
+
+Partners: LASTIG (Univ. Gustave Eiffel, IGN-ENSG), CEDRIC (Cnam Paris), DTIS (ONERA), ISIR (Sorbonne Université, CNRS).
+
+Participants: Nicolas Audebert (PI), Nicolas Gonthier, Clément Mallet, Arnaud Breloy, Javiera Castillo, Flora Weissgerber, Adrien Chan Hon Tong, Clément Rambour, Alasdair Newson.
+
+Funding: Agence Innovation Défense
+
+Earth Observation and Generative models for Rare Events detection (OGRE) explores generative models and their application to extreme events detection in multimodal remote sensing data (optical and SAR). It investigates how to leverage large generative models as likelihood estimators, to detect finely-localized anomalies, both in time and space, and to perform change detection in satellite image time series. It targets a broad range of applications from flood surveillance, ice melting monitoring and urban growth analysis.
+
+## 👨‍🔬 Research areas
+
+### Representation learning
+### Multimodal Learning
+### Change Detection 
+### Earth Observation
