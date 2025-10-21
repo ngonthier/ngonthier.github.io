@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Training in Sustainable Development for public policies
+* Training in Sustainable Development for public policies, ENPC - AgroParisTech, 2022-2023
 * Ph.D in Signal and Image Processing, Paris-Saclay University, March 2021
   * [Transfer learning of convolutional neural networks for texture synthesis and visual recognition in artistic images](https://www.theses.fr/2021UPASG024)
 * MEng in Data & Decision Sciences, ISAE-Supaero, 2017
@@ -19,9 +19,10 @@ Education
 
 Work experience
 ======
-* September 2022: R&D Engineer
+* September 2022: Innovation Project Manager and Researcher
   * [IGN - French Mapping Agency](https://www.ign.fr/)
-  * Working on Change Detection and Deep Learning for remote sensing
+  * Change Detection and Deep Learning for remote sensing
+  * Responsible of the Change Detection Technological Roadmap
 
 * June 2021 - August 2022: PostDoctoral Researcher
   * [IMAGINE/LIGM](https://imagine-lab.enpc.fr/) - [École des Ponts ParisTech - ENPC](https://www.ecoledesponts.fr/)
