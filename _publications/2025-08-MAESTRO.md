@@ -4,11 +4,11 @@ collection: publications
 permalink: /publication/2025-08-MAESTRO
 excerpt: 'This paper is about self-supervised multimodal learning for Remote Sensing Data.'
 date: 2025-08-14
-venue: 'preprint'
+venue: 'WACV 2026'
 github: https://github.com/ignf/maestro
 paperurl: https://arxiv.org/pdf/2508.10894.pdf
 teaser: Maestro_Overview.png
-citation: 'Labatie A. (2025). &quot;MAESTRO: Masked AutoEncoders for Multimodal, Multitemporal, and Multispectral Earth Observation Data&quot; <i>preprint</i>.'
+citation: 'Labatie A. (2026). &quot;MAESTRO: Masked AutoEncoders for Multimodal, Multitemporal, and Multispectral Earth Observation Data&quot; <i>WACV</i>.'
 ---
 
 Antoine Labatie, Michael Vaccaro, Nina Lardiere, [Anatol Garioud](https://scholar.google.fr/citations?user=6c9QX2AAAAAJ&hl=fr) and **Nicolas Gonthier**
@@ -29,4 +29,4 @@ Keywords
   
 # ![Overview from the MAESTRO pipeline.](https://ngonthier.github.io/images/Maestro_Overview.png)
 
-Recommended citation: Labatie A., Vaccaro M., Lardiere N., Garioud A., and Gonthier N. (2025). "MAESTRO: Masked AutoEncoders for Multimodal, Multitemporal, and Multispectral Earth Observation Data" <i>preprint</i>.
+Recommended citation: Labatie A., Vaccaro M., Lardiere N., Garioud A., and Gonthier N. (2025). "MAESTRO: Masked AutoEncoders for Multimodal, Multitemporal, and Multispectral Earth Observation Data" <i>Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026</i>.
