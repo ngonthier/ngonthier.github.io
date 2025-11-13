@@ -26,7 +26,7 @@ My research interests include deep learning applied for geospatial data and hist
 - Earth Observation
 
 ## 🥼 Research projects
-### 👹 OGRE (2026-2029)
+### 👹 OGRE - Observation de la Terre et IA Générative pour la Reconnaissance d'Événements rares (2026-2029)
 
 *Website to be published*
 
