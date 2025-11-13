@@ -18,7 +18,12 @@ My PhD manuscript can be found [here](https://theses.hal.science/tel-03227373).
 
 My research interests include deep learning applied for geospatial data and historical images.
 
+## 👨‍🔬 Research areas
 
+- Change Detection
+- Representation learning
+- Multimodal Learning
+- Earth Observation
 
 ## 🥼 Research projects
 ### 👹 OGRE (2026-2029)
@@ -33,9 +38,8 @@ Funding: Agence Innovation Défense
 
 Earth Observation and Generative models for Rare Events detection (OGRE) explores generative models and their application to extreme events detection in multimodal remote sensing data (optical and SAR). It investigates how to leverage large generative models as likelihood estimators, to detect finely-localized anomalies, both in time and space, and to perform change detection in satellite image time series. It targets a broad range of applications from flood surveillance, ice melting monitoring and urban growth analysis.
 
-## 👨‍🔬 Research areas
+### ✈️​ Change Detection in Very High Resolution Images (2022-2025) 
+IGN PhD Funding
 
-### Representation learning
-### Multimodal Learning
-### Change Detection 
-### Earth Observation
+### 🌍 Multimodal Self-Supervised Learning for Earth Observation (2022-2026)
+CNES and IGN PhD Funding
