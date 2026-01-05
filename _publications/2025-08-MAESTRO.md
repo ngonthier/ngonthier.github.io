@@ -13,7 +13,7 @@ citation: 'Labatie A. (2026). &quot;MAESTRO: Masked AutoEncoders for Multimodal,
 
 Antoine Labatie, Michael Vaccaro, Nina Lardiere, [Anatol Garioud](https://scholar.google.fr/citations?user=6c9QX2AAAAAJ&hl=fr) and **Nicolas Gonthier**
 
-[PDF](https://arxiv.org/pdf/2508.10894.pdf) - [Code](https://github.com/ignf/maestro)
+[PDF](https://arxiv.org/pdf/2508.10894.pdf) - [Code](https://github.com/ignf/maestro) - [Model pretrained on FLAIR-HUB](https://huggingface.co/IGNF/MAESTRO_FLAIR-HUB_base) - [Model pretrained on S2-NAIP](https://huggingface.co/IGNF/MAESTRO_S2-NAIP-urban_base)
 
 Abstract
 ======
