@@ -3,17 +3,15 @@ title: "Operational Change Detection for Geographical Information: Overview and 
 collection: publications
 permalink: /publication/2025-03_op_dchan_overview
 excerpt: 'This paper is an overview about operational change detection.'
-date: 2025-03-01
-venue: 'preprint'
+date: 2026-04-01
+venue: 'International Journal of Applied Earth Observation and Geoinformation'
 paperurl: https://arxiv.org/pdf/2503.14109
-citation: 'Gonthier N. (2025). &quot;Operational Change Detection for Geographical Information: Overview and Challenges&quot; <i>preprint</i>.'
+citation: 'Gonthier N. (2025). &quot;Operational Change Detection for Geographical Information: Overview and Challenges&quot; <i>International Journal of Applied Earth Observation and Geoinformation</i>.'
 ---
 
  **Nicolas Gonthier**
  
-[PDF](https://arxiv.org/pdf/2503.14109) 
-
-Please do not hesitate to contact me if you have any comments on this work in progress to improve it.
+[ArXiV](https://arxiv.org/pdf/2503.14109) - [Article](https://www.sciencedirect.com/science/article/pii/S1569843226001949)
 
 Abstract
 ======
