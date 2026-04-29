@@ -26,4 +26,4 @@ Keywords
 * Earth Observation
 * Geospatial Database
 
-# ![Graphical Abstract.](https://ngonthier.github.io/images/GraphicalAbstract_DCHAN.jpg)
+# ![Graphical Abstract.](https://ngonthier.github.io/images/DCHAN_Overview_V2.jpg)
