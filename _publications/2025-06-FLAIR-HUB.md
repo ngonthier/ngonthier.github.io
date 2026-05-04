@@ -30,5 +30,3 @@ Keywords
 * Aerial and Satellite Images
   
 # ![Overview from the FLAIR-HUB Dataset.](https://ngonthier.github.io/images/FLAIR-HUB_Overview_EN-W-COMPRESSED.png)
-
-Recommended citation: Garioud A., Giordano S., David N. and Gonthier N. (2026). "FLAIR-HUB: Large-scale Multimodal Dataset for Land Cover and Crop Mapping" <i>ISPRS Journal of Photogrammetry and Remote Sensing</i>.
