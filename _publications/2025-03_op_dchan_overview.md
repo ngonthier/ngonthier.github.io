@@ -6,7 +6,7 @@ excerpt: 'This paper is an overview about operational change detection.'
 date: 2026-04-01
 venue: 'International Journal of Applied Earth Observation and Geoinformation'
 paperurl: https://arxiv.org/pdf/2503.14109
-citation: 'Gonthier N. (2025). &quot;Operational Change Detection for Geographical Information: Overview and Challenges&quot; <i>International Journal of Applied Earth Observation and Geoinformation</i>.'
+citation: 'Gonthier N. (2026). &quot;Operational Change Detection for Geographical Information: Overview and Challenges&quot; <i>International Journal of Applied Earth Observation and Geoinformation</i>.'
 ---
 
  **Nicolas Gonthier**
@@ -27,3 +27,6 @@ Keywords
 * Geospatial Database
 
 # ![Graphical Abstract.](https://ngonthier.github.io/images/DCHAN_Overview_V2.jpg)
+
+Recommended citation: Gonthier N. (2026). "Operational Change Detection for Geographical Information: Overview and Challenges" <i>International Journal of Applied Earth Observation and Geoinformation</i>.
+
