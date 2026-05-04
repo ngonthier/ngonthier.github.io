@@ -3,18 +3,18 @@ title: "FLAIR-HUB: Large-scale Multimodal Dataset for Land Cover and Crop Mappin
 collection: publications
 permalink: /publication/2025-06-FLAIR-HUB
 excerpt: 'This paper is about land cover and crop type semantic segmentation and multi modalities fusion (very high resolution aerial image and satellite time series).'
-date: 2025-06-21
+date: 2026-04-03
 venue: 'preprint'
 github: https://github.com/IGNF/FLAIR-HUB
 link: https://ignf.github.io/FLAIR/FLAIR-HUB/flairhub.html
 paperurl: https://arxiv.org/pdf/2506.07080.pdf
 teaser: FLAIR-HUB_patches_1_VERTICAL_1_line.jpg
-citation: 'Garioud A. (2025). &quot;FLAIR-HUB: Large-scale Multimodal Dataset for Land Cover and Crop Mapping&quot; <i>preprint</i>.'
+citation: 'Garioud A. (2026). &quot;FLAIR-HUB: Large-scale Multimodal Dataset for Land Cover and Crop Mapping&quot; <i>ISPRS Journal of Photogrammetry and Remote Sensing</i>.'
 ---
 
 [Anatol Garioud](https://scholar.google.fr/citations?user=6c9QX2AAAAAJ&hl=fr), Sébastien Giordano, Nicolas David and **Nicolas Gonthier**
 
-[PDF](https://arxiv.org/pdf/2506.07080.pdf) - [Dataset](https://huggingface.co/datasets/IGNF/FLAIR-HUB) - [Pretrained Models](https://huggingface.co/collections/IGNF/flair-models-684035e78bd5bff99199ff87)
+[PDF](https://www.sciencedirect.com/science/article/pii/S0924271626001899?__cf_chl_tk=Y0JsyrXWhZoqEqLhlxjVnZ40Z4Regm1Sg1hpZQebI.4-1777898415-1.0.1.1-pufUtcEfF9ev69b9_KP9m6CPo8iFpmTt6pkh4_NESQo) - [ArXiv Version](https://arxiv.org/pdf/2506.07080.pdf) - [Dataset](https://huggingface.co/datasets/IGNF/FLAIR-HUB) - [Pretrained Models](https://huggingface.co/collections/IGNF/flair-models-684035e78bd5bff99199ff87)
 
 Abstract
 ======
@@ -31,4 +31,4 @@ Keywords
   
 # ![Overview from the FLAIR-HUB Dataset.](https://ngonthier.github.io/images/FLAIR-HUB_Overview_EN-W-COMPRESSED.png)
 
-Recommended citation: Garioud A., Giordano S., David N. and Gonthier N. (2025). "FLAIR-HUB: Large-scale Multimodal Dataset for Land Cover and Crop Mapping" <i>preprint</i>.
+Recommended citation: Garioud A., Giordano S., David N. and Gonthier N. (2026). "FLAIR-HUB: Large-scale Multimodal Dataset for Land Cover and Crop Mapping" <i>ISPRS Journal of Photogrammetry and Remote Sensing</i>.
