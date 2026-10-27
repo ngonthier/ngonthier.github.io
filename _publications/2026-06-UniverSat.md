@@ -8,7 +8,7 @@ venue: 'NeurIPS'
 github: https://github.com/gastruc/UniverSat
 paperurl: https://arxiv.org/pdf/2606.23503.pdf
 citation: 'Perron Y. (2026). &quot;UniverSat: Resolution- and Modality-Agnostic Transformers for Earth Observation&quot; <i>NeurIPS</i>.'
-teaser: UniverSat_overview.png
+teaser: upe.png
 ---
 
 [Yohann Perron](https://yohannperron.github.io/WebPage/) - [Guillaume Astruc](https://imagine-lab.enpc.fr/staff-members/guillaume-astruc/), **Nicolas Gonthier**, [Clément Mallet](https://www.umr-lastig.fr/clement-mallet/) and [Loic Landrieu](https://loiclandrieu.com/)
@@ -27,6 +27,8 @@ Keywords
 * Modalities fusion
 * Satellite Times Series
 * Self-supervised learning
+
+# ![Overview of the training dataset.](https://ngonthier.github.io/images/UniverSat_overview.png)
 
 # ![Architecture of the UniverSat model.](https://ngonthier.github.io/images/UniverSat_architecture.png)
 
