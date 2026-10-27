@@ -1,7 +1,7 @@
 ---
 title: "From Orthophotos to Building Footprints over a decade: Model Inference-Based Approach for Urban Densification Analysis in Iasi, Romania"
 collection: publications
-permalink: /publication/2026-06-Densification-Analysis.md
+permalink: /publication/2026-06-Densification-Analysis
 excerpt: 'We propose an open, model-based workflow that extracts building footprints and tracks change (2011–2024) in Romania, showing that a France-trained segmentation model transfers well spatially.'
 date: 2026-06-02
 venue: 'ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci.'
