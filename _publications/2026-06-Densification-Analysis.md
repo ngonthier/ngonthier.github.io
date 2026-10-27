@@ -4,16 +4,16 @@ collection: publications
 permalink: /publication/2026-06-Densification-Analysis.md
 excerpt: 'We propose an open, model-based workflow that extracts building footprints and tracks change (2011–2024) in Romania, showing that a France-trained segmentation model transfers well spatially.'
 date: 2026-06-02
-venue: 'ISPRS International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences'
+venue: 'ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci.'
 paperurl: https://isprs-archives.copernicus.org/articles/XLIX-B4-2026/25/2026/isprs-archives-XLIX-B4-2026-25-2026.pdf
-citation: 'Crenganis, L.-M. (2026). &quot;From Orthophotos to Building Footprints over a decade: Model Inference-Based Approach for Urban Densification Analysis in Iasi, Romania&quot; <i>ISPRS International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences</i>.'
+citation: 'Crenganis, L.-M. (2026). &quot;From Orthophotos to Building Footprints over a decade: Model Inference-Based Approach for Urban Densification Analysis in Iasi, Romania&quot; <i>ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci.</i>.'
 ---
 
 [Crenganis, L.-M.](https://scholar.google.com/citations?user=_50kj2AAAAAJ&hl=ro), Loghin, A.-M., Stoian, C., [Olteanu-Raimond, A.-M.](https://www.umr-lastig.fr/fr/members/Ana-Maria-Olteanu-Raimond/), [Le Bris, A.](https://www.umr-lastig.fr/arnaud-le-bris/), [Raimbault, J.](https://www.umr-lastig.fr/juste-raimbault/), [Perret, J.](https://www.umr-lastig.fr/julien-perret/), [Bucher, B.](https://www.umr-lastig.fr/benedicte-bucher/), and **Nicolas Gonthier**
 
 [PDF](https://isprs-archives.copernicus.org/articles/XLIX-B4-2026/25/2026/isprs-archives-XLIX-B4-2026-25-2026.pdf) 
 
-** Best Poster Award ** at ISPRS Congress 2026.
+** Best Poster Award ** at ISPRS International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences.
 
 Abstract
 ======
