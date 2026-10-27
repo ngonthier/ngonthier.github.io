@@ -5,7 +5,7 @@ permalink: /publication/2026-06-Densification-Analysis.md
 excerpt: 'We propose an open, model-based workflow that extracts building footprints and tracks change (2011–2024) in Romania, showing that a France-trained segmentation model transfers well spatially.'
 date: 2026-06-02
 venue: 'ISPRS International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences'
-paperurl: [https://arxiv.org/pdf/2412.14123.pdf](https://isprs-archives.copernicus.org/articles/XLIX-B4-2026/25/2026/isprs-archives-XLIX-B4-2026-25-2026.pdf)
+paperurl: https://isprs-archives.copernicus.org/articles/XLIX-B4-2026/25/2026/isprs-archives-XLIX-B4-2026-25-2026.pdf
 citation: 'Crenganis, L.-M. (2026). &quot;From Orthophotos to Building Footprints over a decade: Model Inference-Based Approach for Urban Densification Analysis in Iasi, Romania&quot; <i>ISPRS International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences</i>.'
 ---
 
@@ -13,7 +13,7 @@ citation: 'Crenganis, L.-M. (2026). &quot;From Orthophotos to Building Footprint
 
 [PDF](https://isprs-archives.copernicus.org/articles/XLIX-B4-2026/25/2026/isprs-archives-XLIX-B4-2026-25-2026.pdf) 
 
-** Best Poster Award **
+** Best Poster Award ** at ISPRS Congress 2026.
 
 Abstract
 ======
