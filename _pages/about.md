@@ -26,9 +26,9 @@ My research interests include deep learning applied for geospatial data and hist
 - Earth Observation
 
 ## 🥼 Research projects
-### 👹 OGRE - Observation de la Terre et IA Générative pour la Reconnaissance d'Événements rares (2026-2029)
+### 👹 OGRE: (E)arth Observation and Generative models for Rare Events detection (2026-2029)
 
-*Website to be published*
+[Website](https://geo-ogre.github.io/)
 
 Partners: LASTIG (Univ. Gustave Eiffel, IGN-ENSG), CEDRIC (Cnam Paris), DTIS (ONERA), ISIR (Sorbonne Université, CNRS).
 
