@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2026-06-OntoLULC.md
 excerpt: 'We propose an ontology of scientific papers of LULC studies so researchers can run systematic, reproducible and comparable literature reviews.'
 date: 2026-06-01
-venue: 'ISPRS Congress'
+venue: 'ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci.'
 paperurl: https://isprs-annals.copernicus.org/articles/XI-1-2026/473/2026/isprs-annals-XI-1-2026-473-2026.pdf
-citation: 'Cubaud, M. (2026). &quot;OntoLULC-SOTA: An ontology based approach to make systematic reviews for LULC data&quot; <i>ISPRS Congress</i>.'
+citation: 'Cubaud, M. (2026). &quot;OntoLULC-SOTA: An ontology based approach to make systematic reviews for LULC data&quot; <i>ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci.</i>.'
 ---
 
 Cubaud, M., [Olteanu-Raimond, A.-M.](https://www.umr-lastig.fr/fr/members/Ana-Maria-Olteanu-Raimond/), Fonte, C. C., Duarte, D., Estima, J., See, L., **Gonthier, N.**, [Jolivet, L.](https://www.umr-lastig.fr/laurence-jolivet/), [Mallet, C.](https://www.umr-lastig.fr/clement-mallet/), [Le Bris, A.](https://www.umr-lastig.fr/arnaud-le-bris/), and Antoniou, V.
