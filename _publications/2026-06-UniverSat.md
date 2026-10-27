@@ -28,10 +28,13 @@ Keywords
 * Satellite Times Series
 * Self-supervised learning
 
+Overview of the training dataset :
 # ![Overview of the training dataset.](https://ngonthier.github.io/images/UniverSat_overview.png)
 
+Architecture of the UniverSat model : 
 # ![Architecture of the UniverSat model.](https://ngonthier.github.io/images/UniverSat_architecture.png)
 
-# ![UniverSat Embeddings.](https://ngonthier.github.io/images/UniverSat_embeddings)
+PCA projections of features from a multimodal PASTIS test tile. UniverSat preserves field boundaries and fine spatial structures at higher granularity than competing multimodal models.
+# ![UniverSat Embeddings.](https://ngonthier.github.io/images/UniverSat_embeddings.png)
 
 
