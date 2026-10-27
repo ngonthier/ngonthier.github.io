@@ -1,7 +1,7 @@
 ---
 title: "OntoLULC-SOTA: An ontology based approach to make systematic reviews for LULC data"
 collection: publications
-permalink: /publication/2026-06-OntoLULC.md
+permalink: /publication/2026-06-OntoLULC
 excerpt: 'We propose an ontology of scientific papers of LULC studies so researchers can run systematic, reproducible and comparable literature reviews.'
 date: 2026-06-01
 venue: 'ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci.'
