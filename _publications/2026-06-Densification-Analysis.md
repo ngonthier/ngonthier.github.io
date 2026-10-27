@@ -9,7 +9,7 @@ paperurl: https://isprs-archives.copernicus.org/articles/XLIX-B4-2026/25/2026/is
 citation: 'Crenganis, L.-M. (2026). &quot;From Orthophotos to Building Footprints over a decade: Model Inference-Based Approach for Urban Densification Analysis in Iasi, Romania&quot; <i>ISPRS International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences</i>.'
 ---
 
-[Crenganis, L.-M.](https://scholar.google.com/citations?user=_50kj2AAAAAJ&hl=ro), Loghin, A.-M., Stoian, C., [Olteanu-Raimond, A.-M.](https://www.umr-lastig.fr/fr/members/Ana-Maria-Olteanu-Raimond/), [le Bris, A.](https://www.umr-lastig.fr/arnaud-le-bris/), [Raimbault, J.](https://www.umr-lastig.fr/juste-raimbault/), [Perret, J.](https://www.umr-lastig.fr/julien-perret/), [Bucher, B.](https://www.umr-lastig.fr/benedicte-bucher/), and **Nicolas Gonthier**
+[Crenganis, L.-M.](https://scholar.google.com/citations?user=_50kj2AAAAAJ&hl=ro), Loghin, A.-M., Stoian, C., [Olteanu-Raimond, A.-M.](https://www.umr-lastig.fr/fr/members/Ana-Maria-Olteanu-Raimond/), [Le Bris, A.](https://www.umr-lastig.fr/arnaud-le-bris/), [Raimbault, J.](https://www.umr-lastig.fr/juste-raimbault/), [Perret, J.](https://www.umr-lastig.fr/julien-perret/), [Bucher, B.](https://www.umr-lastig.fr/benedicte-bucher/), and **Nicolas Gonthier**
 
 [PDF](https://isprs-archives.copernicus.org/articles/XLIX-B4-2026/25/2026/isprs-archives-XLIX-B4-2026-25-2026.pdf) 
 
