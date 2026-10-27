@@ -13,7 +13,7 @@ citation: 'Crenganis, L.-M. (2026). &quot;From Orthophotos to Building Footprint
 
 [PDF](https://isprs-archives.copernicus.org/articles/XLIX-B4-2026/25/2026/isprs-archives-XLIX-B4-2026-25-2026.pdf) 
 
-** Best Poster Award ** at ISPRS International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences.
+**Best Poster Award** at ISPRS International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences.
 
 Abstract
 ======
