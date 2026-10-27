@@ -26,6 +26,9 @@ My research interests include deep learning applied for geospatial data and hist
 - Earth Observation
 
 ## 🥼 Research projects
+### 🌳 Land-Uncover: Land cover detection with occlusion using very high-resolution image analysis (2026-2029) 
+IGN PhD Funding
+
 ### 👹 OGRE: (E)arth Observation and Generative models for Rare Events detection (2026-2029)
 
 [Website](https://geo-ogre.github.io/)
@@ -38,7 +41,7 @@ Funding: Agence Innovation Défense
 
 Earth Observation and Generative models for Rare Events detection (OGRE) explores generative models and their application to extreme events detection in multimodal remote sensing data (optical and SAR). It investigates how to leverage large generative models as likelihood estimators, to detect finely-localized anomalies, both in time and space, and to perform change detection in satellite image time series. It targets a broad range of applications from flood surveillance, ice melting monitoring and urban growth analysis.
 
-### ✈️​ Change Detection in Very High Resolution Images (2022-2025) 
+### ✈️​ Change Detection in Very High Resolution Images (2022-2026) 
 IGN PhD Funding
 
 ### 🌍 Multimodal Self-Supervised Learning for Earth Observation (2022-2026)
