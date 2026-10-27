@@ -3,7 +3,7 @@ title: "UniverSat: Resolution- and Modality-Agnostic Transformers for Earth Obse
 collection: publications
 permalink: /publication/2026-06-UniverSat
 excerpt: 'This paper is about AnySat: a JEPA-based multimodal Earth Observation model that trains simultaneously on diverse datasets with different scales, resolutions (spatial, spectral, temporal), and modality combinations.'
-date: 2026-06-01
+date: 2026-06-30
 venue: 'NeurIPS'
 github: https://github.com/gastruc/UniverSat
 paperurl: https://arxiv.org/pdf/2606.23503.pdf
