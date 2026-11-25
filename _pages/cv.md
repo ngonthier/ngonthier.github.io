@@ -19,6 +19,9 @@ Education
 
 Work experience
 ======
+* September 2026: Topical Associate Editor of the [Geoscience and Remote Sensing Magazine
+](https://www.grss-ieee.org/publications/geoscience-and-remote-sensing-magazine/).
+
 * September 2022: Innovation Project Manager and Researcher
   * [IGN - French Mapping Agency](https://www.ign.fr/)
   * Change Detection and Deep Learning for remote sensing
