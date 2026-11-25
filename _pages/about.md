@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Innovation Project Manager at [French Mapping Agency IGN](https://www.ign.fr/) and researcher at [LASTIG](https://www.umr-lastig.fr/) working on change detection for earth observation and deep learning applied to geospatial data. 
+Innovation Project Manager at [French Mapping Agency IGN](https://www.ign.fr/) and researcher at [LASTIG](https://www.umr-lastig.fr/) working on change detection for earth observation and deep learning applied to geospatial data. 
+Topical Associate Editor of the [Geoscience and Remote Sensing Magazine
+](https://www.grss-ieee.org/publications/geoscience-and-remote-sensing-magazine/).
 
 Previously I was a PostDoctoral researcher in the [IMAGINE team](https://imagine-lab.enpc.fr/) of the ENPC, working with [Mathieu Aubry](https://imagine.enpc.fr/~aubrym/) on unsupervised learning for text recognition.
 
